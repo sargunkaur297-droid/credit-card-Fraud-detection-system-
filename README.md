@@ -68,4 +68,4 @@ The model is evaluated using:
 ## 📂 Project Structure
 ## 🌐 Live Demo
 
-Streamlit App: YOUR_STREAMLIT_LINK
+Streamlit App: https://sargunkaur297-droid-credit-card-fraud-detection-syst-app-3ukl3f.streamlit.app/
